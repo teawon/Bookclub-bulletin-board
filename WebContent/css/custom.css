@@ -1,0 +1,18 @@
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap');
+
+
+.navbar-collapse,h1,h2,h3,h4 {
+	
+	font-family: 'Jeju Gothic';
+}
+
+
+body {
+	
+	font-family: 'Yeon Sung', cursive;
+}
+
+/*순서 바꾸면 적용 안됨. 작은 거 부터 나열해야 함*/
