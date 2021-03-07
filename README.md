@@ -27,6 +27,10 @@ bootstrap의 css를 사용하였습니다.
 - 댓글 작성 후 목록버튼을 누를 시 현재 페이지로 이동하는 점(history(-1)코드 사용때문에 발생)
 
 --- 
+## 데이터베이스
+![dbConnect](https://user-images.githubusercontent.com/78795820/110240538-c9f10980-7f8f-11eb-9bdf-e46a80992c29.PNG)
+---
+
 
 ## 미리보기
 [![Video Label](http://img.youtube.com/vi/Gdi5QdKEh5M/0.jpg)](https://youtu.be/Gdi5QdKEh5M)
