@@ -28,7 +28,8 @@ bootstrap의 css를 사용하였습니다.
 
 --- 
 ## 데이터베이스
-![dbConnect](https://user-images.githubusercontent.com/78795820/110240538-c9f10980-7f8f-11eb-9bdf-e46a80992c29.PNG)
+![dbConnect](https://user-images.githubusercontent.com/78795820/110240752-bb572200-7f90-11eb-94bc-70d01f29567f.PNG)
+
 ---
 
 
