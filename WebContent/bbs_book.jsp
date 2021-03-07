@@ -197,9 +197,9 @@ if(request.getParameter("pageNumber") != null)
  </ul>		
  <div class="container">
  
- 	<%
- 		if(userID != null) {
- 		if(userID.equals("hiyou882")) {%><p style="text-align:center"><a href="write_book.jsp" class="btn btn-primary pull-right">글쓰기</a></p> <% }} %>
+ 	<%      
+ 		if(userID != null) 
+ 		{%><p style="text-align:center"><a href="write_book.jsp" class="btn btn-primary pull-right">글쓰기</a></p> <%} %>
  </div>
   		
   		
