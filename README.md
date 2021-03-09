@@ -34,6 +34,5 @@ bootstrap의 css를 사용하였습니다.
 
 ---
 
-
 ## 미리보기
-[![Video Label](http://img.youtube.com/vi/Gdi5QdKEh5M/0.jpg)](https://youtu.be/Gdi5QdKEh5M)
+[![Video Label](http://img.youtube.com/vi/gtQDP_qPduo/0.jpg)](https://youtu.be/gtQDP_qPduo)
