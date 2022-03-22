@@ -1,10 +1,10 @@
 # 독서토론 활동 웹사이트
 ***
 
-
-
-
-
+## 사용언어 및 DB
+![3a](https://user-images.githubusercontent.com/78795820/159506225-766f4136-f885-45e8-a689-ca959acbc9a6.png)
+![2a](https://user-images.githubusercontent.com/78795820/159506237-1fb5ab48-20e7-4f92-9939-ce6df1990908.png)
+![1a](https://user-images.githubusercontent.com/78795820/159506244-6c9f29fc-6745-4870-b852-6e4ff778d020.png)
 
 
 ## 설명
@@ -35,4 +35,8 @@ bootstrap의 css를 사용하였습니다.
 ---
 
 ## 미리보기
-[![Video Label](http://img.youtube.com/vi/gtQDP_qPduo/0.jpg)](https://youtu.be/gtQDP_qPduo)
+<img width="80%" src="https://user-images.githubusercontent.com/78795820/159505413-0fe96db7-5ee4-4b1c-8ab1-3559759772b8.gif"/>
+<img width="80%" src="https://user-images.githubusercontent.com/78795820/159501506-2003f32b-2391-4fbf-9c90-a25c87299206.gif"/>
+<img width="80%" src="https://user-images.githubusercontent.com/78795820/159501835-fec30a14-533f-40bc-b847-1409c506d760.gif"/>
+
+
