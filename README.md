@@ -35,9 +35,9 @@ bootstrap의 css를 사용하였습니다.
 ---
 
 ## 미리보기
+<img width="80%" src="https://user-images.githubusercontent.com/78795820/159501835-fec30a14-533f-40bc-b847-1409c506d760.gif"/>
 <img width="80%" src="https://user-images.githubusercontent.com/78795820/159505413-0fe96db7-5ee4-4b1c-8ab1-3559759772b8.gif"/>
 <img width="80%" src="https://user-images.githubusercontent.com/78795820/159501506-2003f32b-2391-4fbf-9c90-a25c87299206.gif"/>
-<img width="80%" src="https://user-images.githubusercontent.com/78795820/159501835-fec30a14-533f-40bc-b847-1409c506d760.gif"/>
 <img width="80%" src="https://user-images.githubusercontent.com/78795820/159508064-8b7b0e15-2680-40db-b24e-64fa7bd55624.gif"/>
 
 
